@@ -1,4 +1,4 @@
-AI Mental models for radiologists
+AI mental models for radiologists
 
 ```python 
 python3 -m venv .venv

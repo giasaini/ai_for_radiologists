@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 06d9be7c-e7c8-42bb-961e-6aa047423b32
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/giasaini/ai_for_radiologists
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

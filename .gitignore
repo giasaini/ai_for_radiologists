@@ -1,3 +1,5 @@
 .venv/
 venv/
 ENV/
+# MyST build outputs
+_build
